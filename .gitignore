@@ -1,0 +1,9 @@
+# Your API key stays on your computer
+.env
+
+# Downloaded logs, renders and tools
+data/
+*.mp4
+*.wav
+node_modules/
+.DS_Store
