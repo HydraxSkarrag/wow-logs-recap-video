@@ -102,6 +102,6 @@ Four videos of our guild Tide, all built this way (in German):
 
 ## License
 
-Public domain ([The Unlicense](LICENSE)). Copy it, change it, use it for your guild, no credit needed.
+[MIT License](LICENSE). Copy it, change it, use it for your guild. A short credit with a link back to this repository is appreciated.
 
 World of Warcraft is a registered trademark of Blizzard Entertainment, Inc. Warcraft Logs is not affiliated with this guide. This project is not affiliated with or endorsed by Blizzard or Warcraft Logs.
